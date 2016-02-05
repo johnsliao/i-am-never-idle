@@ -27,4 +27,4 @@ while True:
     if times_run > 96: # 8 hour day
         sys.exit(1)
 
-    time.sleep(3)
+    time.sleep(300)
